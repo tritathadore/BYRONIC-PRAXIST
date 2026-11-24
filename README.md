@@ -12,11 +12,11 @@
   <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB" alt="Python 3.11+">
 </p>
 
-Praxist is an autonomous research system for measurable, computer-executable
+Solsticio Labs is an autonomous research system for measurable, computer-executable
 research. It coordinates parallel research peers, task-owned evaluation,
 durable evidence, and generation-to-generation synthesis.
 
-Praxist treats research as a persistent process rather than a sequence of
+RSFS treats research as a persistent process rather than a sequence of
 disconnected prompts. Use it when a project already runs and its objective is
 measurable, but the best path forward is still unknown.
 
@@ -234,7 +234,7 @@ Praxist is closer to a self-directing research team than a search tool. If your
 researchers are already iterating on a problem manually, Praxist takes over the
 iteration loop itself.
 
-### Q3. Is my project a good fit for Praxist?
+### Q3. Is my project a good fit for Praxist/RSFS?
 
 Praxist delivers the most value when three conditions are met:
 
@@ -304,13 +304,13 @@ evidence and helps prevent further investment in an unproductive direction.
 Praxist is licensed under the Fair Source License Agreement 1.0. The precise
 description is source-available: the complete source code is publicly
 available and may be viewed, downloaded, and modified. Subject to the license
-terms, Praxist may be used for internal business purposes and deployed within
+terms, Praxist/RSFS may be used for internal business purposes and deployed within
 your own organization.
 
 Organizations with aggregate annual revenue, including revenue from
 affiliates, below US$1 million may use Praxist commercially at no charge. Once
 annual revenue reaches or exceeds that threshold, the organization must
-contact the Licensor, Sapient Intelligence Pte Ltd, to negotiate a Commercial
+contact the Licensor, Pyraclaw Intelligence Ltd, to negotiate a Commercial
 License.
 
 The revenue threshold does not apply to qualifying teaching and academic
@@ -329,7 +329,7 @@ Agreement 1.0, the terms of the license agreement control.
 
 ## Citation
 
-If you use Praxist in your research, please cite:
+If you use Praxist/Pyraclaw in your research, please cite:
 
 ```bibtex
 @misc{li2026praxistexperimentalartifactssolution,
